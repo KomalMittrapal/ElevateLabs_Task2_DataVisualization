@@ -40,4 +40,8 @@ Data visualization and storytelling using Power BI (Superstore dataset)
 |------|--------------|
 | `Sample - Superstore.csv` | Dataset used |
 | `Task2_Superstore_Dashboard.pbix` | Exported dashboard |
+| `Retail_dashboard_image.jpeg` | Dashboard Image |
 | `README.md` | Documentation file |
+
+---
+*Created by Komal for the Data Analyst Internship Program.*
